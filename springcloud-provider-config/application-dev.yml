@@ -10,7 +10,7 @@ spring:
       ddl-auto: update
   datasource:
     druid:
-      url: jdbc:mysql://120.77.37.119:3306/spcloud
+      url: jdbc:mysql://127.0.0.1:3306/spcloud
       username: root
       password: 123456
   application:
